@@ -1,6 +1,6 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# Eliana Underwood
+## Lab 05
+## 10/10/2024
 ## Worked with/sources 
 * example
 * example
